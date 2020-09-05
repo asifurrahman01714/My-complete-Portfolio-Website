@@ -67,7 +67,7 @@ margin-bottom: 10px;
     height: 5px;
     width: 50%;
     background: black;
-    top: 135%;
+    top: 160%;
     right: 25%;
 }
 .img-box h4{
@@ -192,6 +192,11 @@ color: white;
 	  display: none;
 	}
 	
+	.img-box::before {
+		
+		height: 3px;
+		
+	}
 	
 
 }
